@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-tabs/static/css/main.cf38550b.css",
+    "main.js": "/job-tabs/static/js/main.f9331807.js",
+    "index.html": "/job-tabs/index.html",
+    "main.cf38550b.css.map": "/job-tabs/static/css/main.cf38550b.css.map",
+    "main.f9331807.js.map": "/job-tabs/static/js/main.f9331807.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38550b.css",
+    "static/js/main.f9331807.js"
+  ]
+}
